@@ -1,0 +1,7 @@
+ <script language="javascript">
+               function soma(valor1, valor2) {
+                   var q = valor1 + valor2;
+                   return q;
+               }
+               document.write("A soma dos numeros é " + soma(3, 9));
+               </script> 
